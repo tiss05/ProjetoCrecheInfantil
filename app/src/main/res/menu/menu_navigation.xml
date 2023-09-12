@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Inicio"
+        android:fontFamily="sans-serif"
+        android:icon="@drawable/ic_baseline_home"/>
+
+    <item
+        android:id="@+id/register"
+        android:title="Registo"
+        android:fontFamily="sans-serif"
+        android:icon="@drawable/icon_registration"/>
+
+    <item
+        android:id="@+id/mailbox"
+        android:title="Mensagens"
+        android:fontFamily="sans-serif"
+        android:icon="@drawable/icon_messages"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="Perfil"
+        android:fontFamily="sans-serif"
+        android:icon="@drawable/icon_profile"/>
+
+</menu>

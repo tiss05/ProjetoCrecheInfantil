@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Patronato de Santo António</string>
+    <string name="subtitleLoadApp">Creche / Pré-escolar</string>
+
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+
+    <string name="monday">SEG</string>
+    <string name="tuesday">TER</string>
+    <string name="wednesday">QUA</string>
+    <string name="thursday">QUI</string>
+    <string name="friday">SEX</string>
+    <string name="saturday">SÁB</string>
+    <string name="sunday">DOM</string>
+
+    <string name="changeDiaper">Fralda</string>
+    <string name="lunch">Almoço</string>
+    <string name="snack">Lanche</string>
+    <string name="health">Saúde</string>
+
+    <string name="chooseTxtLunch">Selecione uma opção:</string>
+    <string name="chooseOptions">Selecione uma ou mais opções:</string>
+    <string name="textObs">Observação de saúde</string>
+    <string name="insertTxt">Insere uma observação</string>
+
+    <string name="backDialog">Voltar</string>
+    <string name="confirmDialog">Confirmar</string>
+
+    <string name="namePerson">Nome: </string>
+    <string name="emailPerson">Email: </string>
+    <string name="addressPerson">Morada:</string>
+
+    <string name="resumeContent">Resumo  do  dia</string>
+    <string name="emptyField">Sem nenhuma ocorrência</string>
+    <string name="diaperField">Muda de fralda</string>
+
+    <string-array name="statusList">
+        <item>Comeu tudo</item>
+        <item>Comeu pouco</item>
+        <item>Não comeu</item>
+    </string-array>
+
+    <string-array name="diaperList">
+        <item>Xixi</item>
+        <item>Cocó (Sanita)</item>
+        <item>Cocó (Fralda)</item>
+    </string-array>
+
+    <string name="editFor">Modificar para: </string>
+
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/customToastWriteLunch"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dialog_warn"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="34dp"
+        android:layout_height="34dp"
+        android:src="@drawable/ic_write"/>
+
+    <TextView
+        android:id="@+id/txtMessageWriteLunch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Por favor"
+        android:textColor="#000"
+        android:textSize="15sp"
+        android:layout_marginLeft="5dp"/>
+
+</LinearLayout>
